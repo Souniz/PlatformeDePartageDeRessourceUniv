@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../gestImmo"
+		},
+		{
+			"name": "test",
+			"path": "../../../../../home/souniz/Documents/PlatformIO/Projects/test"
+		}
+	],
+	"settings": {}
+}

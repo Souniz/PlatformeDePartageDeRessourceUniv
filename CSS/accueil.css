@@ -1,0 +1,26 @@
+h1
+{
+    color: brown;
+    margin-left: 5%;
+}
+div
+{
+    margin-left: 25%;
+
+}
+button
+{
+    width: 50%;
+    margin-top: 5%;
+    height: 50px;
+}
+a
+{
+    text-decoration: none;
+    font-size: 18px;
+}
+fieldset
+{
+    margin-top: 20%;
+
+}

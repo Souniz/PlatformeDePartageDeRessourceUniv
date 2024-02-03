@@ -1,0 +1,9 @@
+.but
+{
+    height: 200px;
+    cursor: progress;
+}
+body
+{
+    background-image: url(../image/pexels-maxime-francis-2246476.jpg);
+}
